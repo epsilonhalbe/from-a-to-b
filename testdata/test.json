@@ -1,0 +1,133 @@
+{
+  "name": "test",
+  "directed": false,
+  "strict": false,
+  "rankdir": "RL",
+  "_subgraph_cnt": 0,
+  "objects": [
+    {
+      "_gvid": 0,
+      "name": "a",
+      "label": "\\N"
+    },
+    {
+      "_gvid": 1,
+      "name": "b",
+      "label": "\\N"
+    },
+    {
+      "_gvid": 2,
+      "name": "c",
+      "label": "\\N"
+    },
+    {
+      "_gvid": 3,
+      "name": "d",
+      "label": "\\N"
+    },
+    {
+      "_gvid": 4,
+      "name": "e",
+      "label": "\\N"
+    },
+    {
+      "_gvid": 5,
+      "name": "f",
+      "label": "\\N"
+    },
+    {
+      "_gvid": 6,
+      "name": "g",
+      "label": "\\N"
+    },
+    {
+      "_gvid": 7,
+      "name": "i",
+      "label": "\\N"
+    },
+    {
+      "_gvid": 8,
+      "name": "j",
+      "label": "\\N"
+    },
+    {
+      "_gvid": 9,
+      "name": "h",
+      "label": "\\N"
+    }
+  ],
+  "edges": [
+    {
+      "_gvid": 0,
+      "tail": 0,
+      "head": 1,
+      "label": "10"
+    },
+    {
+      "_gvid": 1,
+      "tail": 0,
+      "head": 2,
+      "label": "15"
+    },
+    {
+      "_gvid": 2,
+      "tail": 1,
+      "head": 3,
+      "label": "1"
+    },
+    {
+      "_gvid": 3,
+      "tail": 1,
+      "head": 4,
+      "label": "1"
+    },
+    {
+      "_gvid": 4,
+      "tail": 2,
+      "head": 5,
+      "label": "2"
+    },
+    {
+      "_gvid": 5,
+      "tail": 3,
+      "head": 4,
+      "label": "4"
+    },
+    {
+      "_gvid": 6,
+      "tail": 4,
+      "head": 9,
+      "label": "4"
+    },
+    {
+      "_gvid": 7,
+      "tail": 5,
+      "head": 3,
+      "label": "3"
+    },
+    {
+      "_gvid": 8,
+      "tail": 5,
+      "head": 6,
+      "label": "8"
+    },
+    {
+      "_gvid": 9,
+      "tail": 6,
+      "head": 7,
+      "label": "8"
+    },
+    {
+      "_gvid": 10,
+      "tail": 7,
+      "head": 8,
+      "label": "8"
+    },
+    {
+      "_gvid": 11,
+      "tail": 8,
+      "head": 9,
+      "label": "8"
+    }
+  ]
+}

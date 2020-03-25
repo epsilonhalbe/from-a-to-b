@@ -1,0 +1,4 @@
+graph result {
+rankdir = LR;
+  start -- b -- d -- f -- end;
+}

@@ -1,0 +1,56 @@
+{
+  "name": "result",
+  "directed": false,
+  "strict": false,
+  "rankdir": "LR",
+  "_subgraph_cnt": 0,
+  "objects": [
+    {
+      "_gvid": 0,
+      "name": "start",
+      "label": "\\N"
+    },
+    {
+      "_gvid": 1,
+      "name": "b",
+      "label": "\\N"
+    },
+    {
+      "_gvid": 2,
+      "name": "d",
+      "label": "\\N"
+    },
+    {
+      "_gvid": 3,
+      "name": "f",
+      "label": "\\N"
+    },
+    {
+      "_gvid": 4,
+      "name": "end",
+      "label": "\\N"
+    }
+  ],
+  "edges": [
+    {
+      "_gvid": 0,
+      "tail": 0,
+      "head": 1
+    },
+    {
+      "_gvid": 1,
+      "tail": 1,
+      "head": 2
+    },
+    {
+      "_gvid": 2,
+      "tail": 2,
+      "head": 3
+    },
+    {
+      "_gvid": 3,
+      "tail": 3,
+      "head": 4
+    }
+  ]
+}

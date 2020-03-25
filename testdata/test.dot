@@ -1,0 +1,23 @@
+graph test {
+rankdir=LR;
+  start -- b [label = 10];
+  start -- c [label = 15];
+
+  b -- d [label = 1];
+  b -- e [label = 1];
+
+  c -- f [label = 2];
+
+  d -- e [label = 4];
+
+  f -- d [label = 3];
+  f -- end [label = 8];
+
+  end -- i [label = 8];
+
+  i -- j [label = 8];
+
+  j -- h [label = 8];
+  e -- h [label = 4];
+}
+
